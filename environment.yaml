@@ -1,0 +1,17 @@
+name: world_pop_analysis
+channels:
+  - conda-forge
+dependencies:
+  - dask
+  - geopandas
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.11
+  - rasterio
+  - rioxarray
+  - shapely
+  - tqdm
+  - xarray
